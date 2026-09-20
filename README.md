@@ -151,10 +151,10 @@ FoodLoop was developed as a collaborative team project by:
 
 | Team Member               |
 | ------------------------- |
-| **Divynashi Chauhan**     |
-| **Shagun Vishala**        |
-| **Vibhu Kumar**           |
-| **Prashant Tomar**        |
+| **Divynashi Chauhan**[GitHub]()     |
+| **Shagun Vishala**[GitHub](https://github.com/ChaudharyShagun22)      |
+| **Vibhu Kumar**[GitHub](https://github.com/vibhukumar744-collab)         |
+| **Prashant Tomar**[GitHub](https://github.com/prashanttomar-25)    |
 | **Manvinder Singh Tomar** |
 
 ---
