@@ -55,6 +55,7 @@ FoodLoop aims to address this problem by providing a platform where users can sh
 
 ## 📂 Project Structure
 
+```text
 FoodLoop/
 │
 ├── backend/
@@ -74,7 +75,7 @@ FoodLoop/
 │
 ├── README.md
 └── .gitignore
----
+```
 
 ## ⚙️ Getting Started
 
