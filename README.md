@@ -55,19 +55,25 @@ FoodLoop aims to address this problem by providing a platform where users can sh
 
 ## 📂 Project Structure
 
-```text
 FoodLoop/
 │
-├── frontend/
-│   └── ...
-│
 ├── backend/
-│   └── ...
+│   ├── server.js
+│   ├── package.json
+│   └── package-lock.json
+│
+├── Frontend/
+│   └── FRONTEND/
+│       ├── src/
+│       │   ├── main.jsx
+│       │   └── style.css
+│       │
+│       ├── index.html
+│       ├── package.json
+│       └── package-lock.json
 │
 ├── README.md
-└── ...
-```
-
+└── .gitignore
 ---
 
 ## ⚙️ Getting Started
