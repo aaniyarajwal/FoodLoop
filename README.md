@@ -90,7 +90,7 @@ Make sure you have installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/foodloop.git
+git clone https://github.com/aaniyarajwal/FoodLoop
 ```
 
 ### Navigate to the Project
